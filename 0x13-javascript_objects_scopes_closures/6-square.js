@@ -8,7 +8,7 @@ class Square extends BaseSquare {
     super(size, size);
   }
 
-  charPrint(c) {
+  charPrint (c) {
     let letter = 'X';
     if (c) letter = c;
     for (let i = 0; i < this.height; i++) {
