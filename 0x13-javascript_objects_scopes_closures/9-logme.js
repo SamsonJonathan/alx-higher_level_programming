@@ -6,4 +6,4 @@ let noOfArgs = 0;
 exports.logMe = function (item) {
   console.log(`${noOfArgs}: ${item}`);
   noOfArgs++;
-}
+};
