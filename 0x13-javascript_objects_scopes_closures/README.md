@@ -1,0 +1,1 @@
+readme file on javascript scopes_objects_closures
